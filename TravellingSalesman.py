@@ -3,7 +3,7 @@ import random
 import tkinter as tk
 from tkinter import *
 
-num_cities = 30
+num_cities = 150
 num_generations = 500
 pop_size = 100
 mutation_rate = 0.1
